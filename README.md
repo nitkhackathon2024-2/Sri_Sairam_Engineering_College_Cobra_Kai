@@ -15,6 +15,7 @@ bills).
 • Provide a user-friendly interface for document submission and form filling.
 
 Our Solution-
+            Our solution is a versatile web/mobile application designed to efficiently process, verify, and auto-fill various documents and forms. Users can capture and upload documents, and the application will accurately identify and extract all necessary information, regardless of document type or quality. It supports multiple document formats and ensures data authenticity and validity. Additionally, the system auto-fills forms based on the extracted data and user input, providing a seamless and user-friendly experience. Extra features include feedback for poor-quality documents, adaptability to new document types, confidence scores for accuracy, robust data privacy and security measures, and an API for easy integration with existing systems.
     
 
 Pls install node module by (npm install)
