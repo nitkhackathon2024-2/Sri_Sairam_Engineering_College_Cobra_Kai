@@ -1,3 +1,21 @@
+Sri Sairam Engineering College
+Team name - Cobra_Kai
+Team Members - 1.T.V.Sudharsanan
+               2.L.S.Shrivathsan(Leader)
+               3.M.C.Sri Sudhan
+
+
+Problem Statement-
+            Develop a versatile system that can eWiciently verify, process, and auto-fill a wide variety of 
+documents and forms across multiple industries. The core system should be able to:
+• Analyze and extract information from common document types (e.g., ID cards, utility 
+bills). 
+• Verify the authenticity and validity of submitted documents. 
+• Auto-fill forms based on extracted information and user input. 
+• Provide a user-friendly interface for document submission and form filling.
+
+Our Solution-
+    
 
 Pls install node module by (npm install)
 
