@@ -1,0 +1,54 @@
+/* App.css */
+body {
+  font-family: 'Roboto', sans-serif; /* Apply Roboto font to the entire app */
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.App {
+  text-align: center;
+  margin: 20px;
+}
+
+.App-header {
+  background-color: #282c34;
+  padding: 20px;
+  color: white;
+}
+
+input[type='file'] {
+  margin: 10px 0;
+}
+
+/* Button Styles */
+button {
+  background-color: #61dafb; /* Light blue background */
+  color: white; /* White text */
+  border: none; /* No border */
+  padding: 10px 20px; /* Padding for spacing */
+  border-radius: 5px; /* Rounded corners */
+  cursor: pointer; /* Pointer cursor on hover */
+  font-size: 16px; /* Font size */
+  transition: background-color 0.3s ease; /* Smooth background color change */
+}
+
+button:hover {
+  background-color: #21a1f1; /* Darker blue on hover */
+}
+
+.Result {
+  margin-top: 20px; /* Space above the result section */
+  text-align: left; /* Align text to the left */
+  width: 70%; /* Set width to 70% */
+  max-height: 80vh; /* Max height set to 80% of viewport height */
+  margin-left: auto; /* Center horizontally */
+  margin-right: auto; /* Center horizontally */
+  padding: 15px; /* Padding inside the result box set to 15px */
+  background-color: #11192b; /* Light background for the result */
+  border-radius: 5px; /* Rounded corners */
+  font-size: 14px; /* Set font size to 24px */
+  font-family: 'Roboto', sans-serif; /* Apply Roboto font */
+  overflow-y: auto; /* Enable vertical scroll if content overflows */
+  overflow-x: hidden; /* Hide horizontal overflow */
+}
