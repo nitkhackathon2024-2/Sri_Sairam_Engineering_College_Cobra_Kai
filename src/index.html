@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document Upload</title>
+</head>
+<body>
+    <h1>Upload Source Document</h1>
+    <form action="/upload-source" method="post" enctype="multipart/form-data">
+        <input type="file" name="file" required>
+        <button type="submit">Upload Source Document</button>
+    </form>
+
+    <h1>Upload Target Document</h1>
+    <form action="/upload-target" method="post" enctype="multipart/form-data">
+        <input type="file" name="file" required>
+        <button type="submit">Upload Target Document</button>
+    </form>
+</body>
+</html>
